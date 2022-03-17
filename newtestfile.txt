@@ -1,3 +1,0 @@
-Created to understand revert option of the commited files
-
-Adding a new line of code after doing revert of revert commit -ish id
